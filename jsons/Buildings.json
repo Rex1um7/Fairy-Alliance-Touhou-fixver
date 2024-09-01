@@ -18,8 +18,12 @@
 		"cost": 140,
 		"uniqueTo": "Fairy Alliance",
 		"culture": 2,
-		"uniques": ["Requires a [Art Center] in all cities",
-					"+[25]% great person generation in this city", "Free Social Policy", "Cost increases by [30] per owned city"],
+		"uniques": [
+			"Only available <if [Art Center] is constructed in all [non-[Puppeted]] cities>",
+			"[+25]% Great Person generation [in this city]", 
+			"Free Social Policy", 
+			"Cost increases by [30] per owned city"
+		],
 		"isNationalWonder": true,
 		"requiredTech": "Drama and Poetry"
 	}
