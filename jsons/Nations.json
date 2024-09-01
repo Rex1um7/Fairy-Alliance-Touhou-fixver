@@ -17,10 +17,10 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Great Fairy Wars",
 		"uniqueText": " +100% Production when constructing unit but unit maintenance costs is higher 75%.",
-		"uniques" : ["+[100]% Production when constructing [Military] units [in all cities]", 
-					"+[100]% Production when constructing [Civilian] units [in all cities]",
-					"-[-75]% [Military] unit maintenance costs",
-					"-[-75]% [Civilian] unit maintenance costs"],
+		"uniques" : [
+			"[+100]% Production when constructing [All] units [in all cities]", 
+			"[+75]% maintenance costs <for [All] units>"
+		],
 		"cities": ["Cirnopolis", "Daiyouseiville", "Sunnydale", "Lunaberg", "Star City", "White Rock", "Wrigglington", "Lily Whitefield", "Mystia Crossing",
 			"Rumia Town", "Autumn Falls", "Summer Meadows", "Spring Forest", "Winter Mountain", "Chen Valley", "Drizzle Cove", "Cirrus", "Blustery Village",
 			"Misty Lake", "Petal Grove", "Syracuse"]
